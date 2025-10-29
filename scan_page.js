@@ -1,5 +1,5 @@
 // Configuration - Remplace cette URL par ton URL de déploiement Google Apps Script
-const GOOGLE_SCRIPT_URL = 'https://script.google.com/macros/s/YOUR_DEPLOYMENT_ID/exec';
+const GOOGLE_SCRIPT_URL = 'https://script.google.com/macros/s/AKfycbzv3GJl7FglV4Ti2ltbGqcqyfycqbnU24K_RfzTQr7hpXckJhJC6-WMEYeKOBb_6u2Q/exec';
 
 let html5QrcodeScanner;
 let lastScannedCode = '';
